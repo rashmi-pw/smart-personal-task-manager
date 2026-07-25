@@ -10,3 +10,4 @@ Add New Task<img width="1600" height="670" alt="add new task" src="https://githu
 Category Management<img width="1600" height="689" alt="category management" src="https://github.com/user-attachments/assets/b0a25135-c5dc-470d-94ce-c148238c2f7d" />
 Add New Category<img width="1600" height="691" alt="add new category" src="https://github.com/user-attachments/assets/f85f3689-a038-4e1e-bc2a-c254c8ddf9e4" />
 Task Reminder<img width="1600" height="701" alt="task reminder" src="https://github.com/user-attachments/assets/04ced602-caac-4869-a4d6-52321a8466b0" />
+Add Reminder<img width="1600" height="693" alt="add reminder" src="https://github.com/user-attachments/assets/b9233613-39ca-4062-9e31-bf6c1eeb7224" />
