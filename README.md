@@ -9,3 +9,4 @@ Task Management<img width="1600" height="688" alt="task management" src="https:/
 Add New Task<img width="1600" height="670" alt="add new task" src="https://github.com/user-attachments/assets/3ee06a74-e330-4e86-b7e9-9fbd4aeeccc0" />
 Category Management<img width="1600" height="689" alt="category management" src="https://github.com/user-attachments/assets/b0a25135-c5dc-470d-94ce-c148238c2f7d" />
 Add New Category<img width="1600" height="691" alt="add new category" src="https://github.com/user-attachments/assets/f85f3689-a038-4e1e-bc2a-c254c8ddf9e4" />
+Task Reminder<img width="1600" height="701" alt="task reminder" src="https://github.com/user-attachments/assets/04ced602-caac-4869-a4d6-52321a8466b0" />
