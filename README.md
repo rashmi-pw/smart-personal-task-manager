@@ -14,3 +14,4 @@ Add Reminder<img width="1600" height="693" alt="add reminder" src="https://githu
 User Profile Settings<img width="1600" height="684" alt="user profile" src="https://github.com/user-attachments/assets/442dafbe-216e-4a39-80f5-8b6137524418" />
 
 Registered User Accounts<img width="1600" height="685" alt="registered user accounts" src="https://github.com/user-attachments/assets/1dc1b22d-033c-47fd-a0f7-c5d4d7430c21" />
+Basic structure of the System<img width="1547" height="642" alt="WhatsApp Image 2026-07-26 at 00 16 00 basic" src="https://github.com/user-attachments/assets/f7a72c50-e2b3-4c49-a175-2a252c9fb915" />
