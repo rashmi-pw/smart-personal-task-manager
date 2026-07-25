@@ -12,3 +12,4 @@ Add New Category<img width="1600" height="691" alt="add new category" src="https
 Task Reminder<img width="1600" height="701" alt="task reminder" src="https://github.com/user-attachments/assets/04ced602-caac-4869-a4d6-52321a8466b0" />
 Add Reminder<img width="1600" height="693" alt="add reminder" src="https://github.com/user-attachments/assets/b9233613-39ca-4062-9e31-bf6c1eeb7224" />
 User Profile Settings<img width="1600" height="689" alt="user profile settings" src="https://github.com/user-attachments/assets/b16014f8-6236-4178-a1d8-7d33dd0defdc" />
+User Registration<img width="1600" height="685" alt="registered user accounts" src="https://github.com/user-attachments/assets/1dc1b22d-033c-47fd-a0f7-c5d4d7430c21" />
