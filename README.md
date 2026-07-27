@@ -114,6 +114,10 @@ smart-personal-task-manager
 ### ER Diagram
 <img width="1282" height="892" alt="ERdiagram" src="https://github.com/user-attachments/assets/b66d4f27-3ada-4370-b0ff-f84ec77ea1b7" />
 
+### Basic Structure of the System
+<img width="1547" height="642" alt="WhatsApp Image 2026-07-26 at 00 16 00 basic" src="https://github.com/user-attachments/assets/4214f8fe-a277-4de2-b2c6-052889e63b21" />
+
+
 ---
 ## System Demonstration
 
